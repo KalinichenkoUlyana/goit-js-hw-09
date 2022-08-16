@@ -28,3 +28,32 @@ width: 100px;
 height: 50px;
 font-size: 20px;
 }
+
+.timer {
+  display: flex;
+  
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.value {
+  font-size: 50px;
+}
+
+.label {
+  color:tomato;
+}
+
+#datetime-picker {
+  box-sizing: border-box;
+  font-size: large;
+  font-weight: bold;
+  font-size: large;
+  color: green;
+}
